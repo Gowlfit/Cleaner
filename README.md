@@ -1,4 +1,4 @@
-Este programa apagará arquivos acumulados nos seguintes diretórios:
+Este programa apagará em "1 click" arquivos acumulados nos seguintes diretórios:
 
 C:\Users\SeuUsuário\AppData\Local\Temp: Armazena arquivos temporários criados por programas e pelo sistema.
 
